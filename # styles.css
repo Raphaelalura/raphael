@@ -1,0 +1,11 @@
+body {
+    color: rgb(255, 74, 74);
+    background: rgb(59, 35, 35);
+}
+
+header {
+    border: solid 2px white;
+
+    header {
+        border: solid 2px rgb(42, 122, 228);
+    }
